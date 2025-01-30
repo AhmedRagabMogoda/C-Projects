@@ -1,0 +1,1 @@
+"# An elevator in a 5 storey building has limited sensors to detect which of the floors the lift is, There is a call button on each floor, There are two motors to move the lift between floors in response to a call" 
