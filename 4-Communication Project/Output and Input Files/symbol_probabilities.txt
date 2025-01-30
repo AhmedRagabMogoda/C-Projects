@@ -1,0 +1,15 @@
+Symbol probabilities:
+' ' (ASCII 32): Count = 4, Probability = 0.148148
+'!' (ASCII 33): Count = 2, Probability = 0.074074
+'?' (ASCII 63): Count = 1, Probability = 0.037037
+'H' (ASCII 72): Count = 1, Probability = 0.037037
+'a' (ASCII 97): Count = 1, Probability = 0.037037
+'d' (ASCII 100): Count = 1, Probability = 0.037037
+'e' (ASCII 101): Count = 2, Probability = 0.074074
+'h' (ASCII 104): Count = 1, Probability = 0.037037
+'l' (ASCII 108): Count = 3, Probability = 0.111111
+'o' (ASCII 111): Count = 4, Probability = 0.148148
+'r' (ASCII 114): Count = 2, Probability = 0.074074
+'u' (ASCII 117): Count = 1, Probability = 0.037037
+'w' (ASCII 119): Count = 3, Probability = 0.111111
+'y' (ASCII 121): Count = 1, Probability = 0.037037
